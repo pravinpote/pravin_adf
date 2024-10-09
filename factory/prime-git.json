@@ -1,0 +1,9 @@
+{
+	"name": "prime-git",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa15d5c9-21e0-4fcd-8d60-49d6b6e0de0a",
+		"tenantId": "a55b0c32-5ebf-45b8-8548-937a2fa3354d"
+	}
+}
